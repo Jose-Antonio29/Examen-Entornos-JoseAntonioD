@@ -1,0 +1,1 @@
+El .gitignore evita que el archivo nombre.txt se guarde en el repositorio público
